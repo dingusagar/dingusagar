@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hola 👋 I am Dingu Sagar. 
+ML Engineer @ Engati \
+I love building softwares and sharing knowledge.  \
+
+#### Open Source Projects
+* [PyAutoEasy](https://github.com/dingusagar/pyautoeasy) - Makes it easy to automate your booring GUI tasks.
+* [Termy](https://github.com/dingusagar/termy) - Natural language interface to your long terminal commands.
+
+
+#### Blogs
+* [Marvel Character Classification by fine-tuning Vision Transformer](https://medium.com/@dingusagar/marvel-character-classification-by-fine-tuning-vision-transformer-45c14a7d8719)
+* [Text Clustering using Sentence Embeddings](https://medium.com/@dingusagar/text-clustering-using-sentence-embeddings-abcb6048fc36)
+
 
 <!--
 **dingusagar/dingusagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
