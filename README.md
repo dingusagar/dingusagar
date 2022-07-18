@@ -5,7 +5,7 @@
 
 #### Open Source Projects
 * [PyAutoEasy](https://github.com/dingusagar/pyautoeasy) - Makes it easy to automate your booring GUI tasks.
-* [Termy](https://github.com/dingusagar/termy) - Natural language interface to your long terminal commands.
+* [Termy](https://github.com/dingusagar/termy) - Terminal assistant for teams. Natural language interface for your long terminal commands.
 * [Movia](https://github.com/dingusagar/Movia) - Telegram Bot that can help you with movie reviews, ratings 
 
 
