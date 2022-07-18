@@ -12,6 +12,7 @@
 #### Blogs
 * [Marvel Character Classification by fine-tuning Vision Transformer](https://medium.com/@dingusagar/marvel-character-classification-by-fine-tuning-vision-transformer-45c14a7d8719)
 * [Text Clustering using Sentence Embeddings](https://medium.com/@dingusagar/text-clustering-using-sentence-embeddings-abcb6048fc36)
+* [OpenCV Web App with Streamlit](https://www.loginradius.com/blog/engineering/guest-post/opencv-web-app-with-streamlit/)
 
 </em>
  
