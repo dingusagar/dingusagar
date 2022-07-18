@@ -1,10 +1,11 @@
 ### Hola 👋 I am Dingu Sagar. 
 ML Engineer @ Engati \
-I love building softwares and sharing knowledge.  \
+I love building softwares and sharing knowledge. 
 
 #### Open Source Projects
 * [PyAutoEasy](https://github.com/dingusagar/pyautoeasy) - Makes it easy to automate your booring GUI tasks.
 * [Termy](https://github.com/dingusagar/termy) - Natural language interface to your long terminal commands.
+* [Movia](https://github.com/dingusagar/Movia) - Telegram Bot that can help you with movie reviews, ratings 
 
 
 #### Blogs
