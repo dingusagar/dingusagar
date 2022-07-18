@@ -7,13 +7,15 @@
 * [PyAutoEasy](https://github.com/dingusagar/pyautoeasy) - Makes it easy to automate your booring GUI tasks.
 * [Termy](https://github.com/dingusagar/termy) - Terminal assistant for teams. Natural language interface for your long terminal commands.
 * [Movia](https://github.com/dingusagar/Movia) - Telegram Bot that can fetch you movie reviews, ratings.
-
-
+ 
 #### Blogs
 * [Marvel Character Classification by fine-tuning Vision Transformer](https://medium.com/@dingusagar/marvel-character-classification-by-fine-tuning-vision-transformer-45c14a7d8719)
 * [Text Clustering using Sentence Embeddings](https://medium.com/@dingusagar/text-clustering-using-sentence-embeddings-abcb6048fc36)
 * [OpenCV Web App with Streamlit](https://www.loginradius.com/blog/engineering/guest-post/opencv-web-app-with-streamlit/)
 
+#### Video Tutorials
+ * [Knowledge Distillation in Deep Learning - Basics](https://www.youtube.com/watch?v=gADXP5daZeM)
+ 
 </em>
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dingu-sagar/)
