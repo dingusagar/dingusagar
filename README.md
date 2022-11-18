@@ -15,6 +15,7 @@
 
 #### Video Tutorials
  * [Knowledge Distillation in Deep Learning - Basics](https://www.youtube.com/watch?v=gADXP5daZeM)
+ * [Understanding Quantization Basics in Neural Networks](https://youtu.be/idifQfmTjGE)
  
 </em>
  
