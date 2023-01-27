@@ -5,8 +5,9 @@
 
 #### Open Source Projects
 * [PyAutoEasy](https://github.com/dingusagar/pyautoeasy) - Makes it easy to automate your booring GUI tasks.
+* [MouseGestureRecognition](https://github.com/dingusagar/MouseGestureRecognition) - Detect mouse gestures to run commonly used programs/commands. 
 * [Termy](https://github.com/dingusagar/termy) - Terminal assistant for teams. Natural language interface for your long terminal commands.
-* [Movia](https://github.com/dingusagar/Movia) - Telegram Bot that can fetch you movie reviews, ratings.
+* [Movia](https://github.com/dingusagar/Movia) - Telegram Bot that can fetch you movie reviews, ratings. 
  
 #### Blogs
 * [Marvel Character Classification by fine-tuning Vision Transformer](https://medium.com/@dingusagar/marvel-character-classification-by-fine-tuning-vision-transformer-45c14a7d8719)
