@@ -1,7 +1,7 @@
 ### Hola 👋 I am Dingu Sagar. 
 
 <em>
- ML Engineer @ [Drishti](https://drishti.com/) <br> I love building softwares and sharing knowledge.
+ ML Engineer @ [Arintra](https://arintra.com/) <br> I love building softwares and sharing knowledge.
 
 #### Open Source Projects
 * [PyAutoEasy](https://github.com/dingusagar/pyautoeasy) - Makes it easy to automate your booring GUI tasks.
