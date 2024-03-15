@@ -3,7 +3,7 @@
 <em>
  ML Engineer @ [Arintra](https://arintra.com/) <br> I love building softwares and sharing knowledge.
 
-#### Open Source Projects
+#### My Open Source Projects
 * [PyAutoEasy](https://github.com/dingusagar/pyautoeasy) - Makes it easy to automate your booring GUI tasks.
 * [MouseGestureRecognition](https://github.com/dingusagar/MouseGestureRecognition) - Detect mouse gestures to run commonly used programs/commands. 
 * [Termy](https://github.com/dingusagar/termy) - Terminal assistant for teams. Natural language interface for your long terminal commands.
