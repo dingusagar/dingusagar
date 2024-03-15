@@ -14,9 +14,10 @@
 * [Text Clustering using Sentence Embeddings](https://medium.com/@dingusagar/text-clustering-using-sentence-embeddings-abcb6048fc36)
 * [OpenCV Web App with Streamlit](https://www.loginradius.com/blog/engineering/guest-post/opencv-web-app-with-streamlit/)
 
-#### Video Tutorials
+#### Few Popular Video Tutorials
  * [Knowledge Distillation in Deep Learning - Basics](https://www.youtube.com/watch?v=gADXP5daZeM)
  * [Understanding Quantization Basics in Neural Networks](https://youtu.be/idifQfmTjGE)
+ * [KBERT:Transformers with Knowledge Graphs](https://youtu.be/kVwOjOJaKEc)
  
 </em>
  
